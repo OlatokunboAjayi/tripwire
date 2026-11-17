@@ -5,7 +5,7 @@ One Vultr VM runs everything: engine + dashboard (the website, landing page incl
 ## 1 · Vultr VM (once)
 Ubuntu 24.04, 2 GB RAM or more (the script adds swap for the Rust build). Then on the server:
 ```bash
-git clone https://github.com/tokunboajayi/tripwire.git && cd tripwire
+git clone https://github.com/OlatokunboAjayi/tripwire.git && cd tripwire
 # from your laptop: scp .env root@<server-ip>:~/tripwire/.env   (never paste keys in chat)
 ```
 In that `.env` set at least:

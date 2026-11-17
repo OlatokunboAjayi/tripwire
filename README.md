@@ -7,7 +7,7 @@
 ## Demo (98 s, narrated)
 [![Vantrel demo: 2025 replayed, Vantrel +1.2% vs just holding −27.8%](demo/poster.jpg)](demo/vantrel-demo.mp4)
 
-▶ [Watch the demo](demo/vantrel-demo.mp4) · [download (mp4)](https://github.com/tokunboajayi/tripwire/raw/main/demo/vantrel-demo.mp4). Recorded from the live app, narrated with ElevenLabs. Rebuild it with one command: `demo/video/`.
+▶ [Watch the demo](demo/vantrel-demo.mp4) · [download (mp4)](https://github.com/OlatokunboAjayi/tripwire/raw/main/demo/vantrel-demo.mp4). Recorded from the live app, narrated with ElevenLabs. Rebuild it with one command: `demo/video/`.
 
 > **Through 2025 into 2026, crypto fell 28%. Vantrel finished up 1%. The AI picks the strategy. Rust holds the line.**
 
@@ -125,7 +125,7 @@ Server setup and Auth0 notes: `deploy/README.md`.
 ## Team
 | Name | Seat | GitHub |
 |---|---|---|
-| AJ (Olatokunbo Ajayi) | Owner · Engine | @tokunboajayi |
+| AJ (Olatokunbo Ajayi) | Owner · Engine | @OlatokunboAjayi |
 | Bryant Awoh | B · Data & Strategy | @Bawoh1 |
 | Ebere | C · AI & MCP | @ubaniebereo |
 | Kelly Awoh | D · Product | @kellyawoh-jpg |

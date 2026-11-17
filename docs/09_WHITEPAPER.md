@@ -2,7 +2,7 @@
 
 **An AI trading system whose safety layer the AI cannot override.**
 Version 2.0 · October 2026 · Olatokunbo Ajayi (owner), Bryant Awoh, Obinna Ubaniebere, Kelly Awoh
-Live demo: https://getwiththeprogram.study · Code: https://github.com/tokunboajayi/tripwire
+Live demo: https://getwiththeprogram.study · Code: https://github.com/OlatokunboAjayi/tripwire
 
 > Not financial advice. Paper results and backtests do not guarantee future returns. All real-money features described here are built for the owner's own capital only.
 

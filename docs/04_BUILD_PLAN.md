@@ -3,7 +3,7 @@
 ## Team & seats (Hacklanta max = 4)
 | Seat | Person | Owns | Folders |
 |---|---|---|---|
-| **Owner · Integrator + Engine** | AJ @tokunboajayi (head of uploads) | repo admin, merges every PR, releases, deploy, Rust engine | `engine/`, `deploy/`, root files |
+| **Owner · Integrator + Engine** | AJ @OlatokunboAjayi (head of uploads) | repo admin, merges every PR, releases, deploy, Rust engine | `engine/`, `deploy/`, root files |
 | **B · Data & Strategy** | Bryant @Bawoh1 | market data pipeline, backtest, Rust↔Python parity fixtures, replay datasets (crypto + stocks), Tiger Data (opt) | `data/`, `backtest/` |
 | **C · AI & MCP** | Ebere @ubaniebereo | **MCP server ("talk to your portfolio")**, Regime + Thesis agents, prompts, reasoning stream, digest | `mcp/`, `agents/` |
 | **D · Product** | Kelly @kellyawoh-jpg | React dashboard, onboarding, Auth0, landing page, deck | `web/`, `landing/` |
